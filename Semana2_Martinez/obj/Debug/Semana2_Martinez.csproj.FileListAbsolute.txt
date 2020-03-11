@@ -1,0 +1,9 @@
+C:\Users\Alumno\source\repos\Semana2_Martinez\Semana2_Martinez\bin\Debug\Semana2_Martinez.exe.config
+C:\Users\Alumno\source\repos\Semana2_Martinez\Semana2_Martinez\bin\Debug\Semana2_Martinez.exe
+C:\Users\Alumno\source\repos\Semana2_Martinez\Semana2_Martinez\bin\Debug\Semana2_Martinez.pdb
+C:\Users\Alumno\source\repos\Semana2_Martinez\Semana2_Martinez\obj\Debug\Semana2_Martinez.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Semana2_Martinez\Semana2_Martinez\obj\Debug\Semana2_Martinez.Form1.resources
+C:\Users\Alumno\source\repos\Semana2_Martinez\Semana2_Martinez\obj\Debug\Semana2_Martinez.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Semana2_Martinez\Semana2_Martinez\obj\Debug\Semana2_Martinez.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Semana2_Martinez\Semana2_Martinez\obj\Debug\Semana2_Martinez.exe
+C:\Users\Alumno\source\repos\Semana2_Martinez\Semana2_Martinez\obj\Debug\Semana2_Martinez.pdb
